@@ -1,3 +1,4 @@
 Hau nire Git proiektua da
 Hau bigarren lerroa da
+Aldaketa master adarrean
 Aldaketa Gorka-rama adarrean
