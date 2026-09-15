@@ -1,1 +1,2 @@
 Fitxategi hau nire adarrean sortu dut
+Beste lerro bat rama.txt fitxategian
